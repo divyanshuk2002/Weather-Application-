@@ -98,3 +98,16 @@ body{
 .humidity,.wind{
   font-size: 24px;
 }
+
+
+.weather{
+  display: none;;
+}
+
+.error{
+  color:black;
+  margin-top: 10px;
+  font-size: 14px;
+  display: none;
+}
+
